@@ -5,7 +5,7 @@
 🔹 Passionate about **Threat Modeling, Secure Code Review & Red Teaming**  
 🔹 Building **security tools & automation scripts** to secure SDLC 🚀  
 
-📜 **Security Write-ups** → [parvbajaj.github.io](https://parvbajaj.github.io)  
+📜 **Security Portfolio** → [parvbajaj.github.io](https://parvbajaj.github.io)  
 💼 **LinkedIn** → [linkedin.com/in/parvbajaj](https://linkedin.com/in/parvbajaj)  
 
 ---
@@ -41,9 +41,9 @@
 
 ## 🏅 Certifications
 
-![OSCP](https://img.shields.io/badge/OSCP-Passed-red?style=flat&logo=offensive-security)  
-![eWPTX](https://img.shields.io/badge/eWPTX-Passed-blue?style=flat&logo=web-security)  
-![CRTP](https://img.shields.io/badge/CRTP-Passed-green?style=flat&logo=microsoft)  
+![CCSK v5](https://img.shields.io/badge/OSCP-Passed-red?style=flat&logo=offensive-security)  
+![eWPTX v2](https://img.shields.io/badge/eWPTX-Passed-blue?style=flat&logo=web-security)  
+![CEH v11](https://img.shields.io/badge/CRTP-Passed-green?style=flat&logo=microsoft)  
 
 ---
 
