@@ -41,9 +41,9 @@
 
 ## 🏅 Certifications
 
-![CCSK v5](https://img.shields.io/badge/OSCP-Passed-red?style=flat&logo=offensive-security)  
+![CCSK v5](https://img.shields.io/badge/CCSK-Passed-red?style=flat&logo=offensive-security)  
 ![eWPTX v2](https://img.shields.io/badge/eWPTX-Passed-blue?style=flat&logo=web-security)  
-![CEH v11](https://img.shields.io/badge/CRTP-Passed-green?style=flat&logo=microsoft)  
+![CEH v11](https://img.shields.io/badge/CEH-Passed-green?style=flat&logo=microsoft)  
 
 ---
 
