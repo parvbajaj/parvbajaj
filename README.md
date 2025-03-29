@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Parv Bajaj
 
-<!--
-**parvbajaj/parvbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Product Security Engineer | AppSec | Pentester**  
+🔹 **CCSK | eWPTX | ICCA | CEH | eJPT**  
+🔹 Passionate about **Threat Modeling, Secure Code Review & Red Teaming**  
+🔹 Building **security tools & automation scripts** to secure SDLC 🚀  
 
-Here are some ideas to get you started:
+📜 **Security Write-ups** → [parvbajaj.github.io](https://parvbajaj.github.io)  
+💼 **LinkedIn** → [linkedin.com/in/parvbajaj](https://linkedin.com/in/parvbajaj)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![Parv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvbajaj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvbajaj&layout=compact&theme=tokyonight)
+
+---
+
+## 🔧 Security Projects
+
+🚀 **[Awesome Security Automation](https://github.com/parvbajaj/awesome-security-automation)**  
+🔹 Collection of scripts/tools to automate security tasks in pentesting & AppSec.  
+
+💡 **[JWT Exploitation Toolkit](https://github.com/parvbajaj/jwt-exploit-toolkit)**  
+🔹 A tool to automate JWT attacks (key confusion, none algorithm, etc.).  
+
+🔍 **[Cloud Security Misconfigurations](https://github.com/parvbajaj/cloud-security-misconfig)**  
+🔹 A list of cloud security misconfigurations & PoCs for AWS, GCP, and Azure.  
+
+---
+
+## 🏆 CTF Write-ups & Security Research
+
+- **AWS Cognito Exploitation** → [Read Here](https://parvbajaj.github.io/aws-cognito-ctf)  
+- **JWT Key Injection Vulnerability** → [Read Here](https://parvbajaj.github.io/jwt-exploit)  
+- **Hack The Box CTF Challenges** → [My Write-ups](https://github.com/parvbajaj/htb-writeups)  
+
+---
+
+## 🏅 Certifications
+
+![OSCP](https://img.shields.io/badge/OSCP-Passed-red?style=flat&logo=offensive-security)  
+![eWPTX](https://img.shields.io/badge/eWPTX-Passed-blue?style=flat&logo=web-security)  
+![CRTP](https://img.shields.io/badge/CRTP-Passed-green?style=flat&logo=microsoft)  
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/parvbajaj)  
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://parvbajaj.github.io)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/parvbajaj)  
+
+---
+
+🔥 **Always open to security research collaborations & discussions!** 🚀
